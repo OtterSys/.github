@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/OtterSys/.github/blob/main/ottersys-wide.png?raw=true" alt="Otter Logo Wide" />
+  <img width="128" height="128" alt="otter-logo" src="https://github.com/user-attachments/assets/502ac4a8-2457-4919-954e-eb235b8d054c" />
   <h2>🦦 Otter Systems</h2>
   
   ![GitHub Release](https://img.shields.io/github/v/release/OtterSys/panel)
